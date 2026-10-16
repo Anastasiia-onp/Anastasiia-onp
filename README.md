@@ -80,4 +80,4 @@ PowerPoint · HTML-дашборды · аналитические записки
 
 ## Связаться
 
-- Telegram: @AnastasiiaOnp
+- Telegram: [@AnastasiiaOnp](https://t.me/AnastasiiaOnp)
