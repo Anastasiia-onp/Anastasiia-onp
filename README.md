@@ -44,7 +44,7 @@ Excel, результаты сверяются. Строки без суммы �
 
 **Python · openpyxl · HTML/CSS/JS · Claude Code**
 
-[→ посмотреть дашборд на демо-данных](https://claude.ai/artifact/FygPugsKxEvvToqJQkoMdq)
+[→ посмотреть дашборд на демо-данных](https://anastasiia-onp.github.io/payment-calendar/)
 
 ---
 
